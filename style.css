@@ -1,0 +1,76 @@
+body{width:520px;overflow:hidden;margin:0; padding:0; border:0;}
+/* .box {width:518px; display: block; border: 1px solid black;} */
+#box {width:520px; height: 640px;}
+footer {color:#999; font-size: 0.9em; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;}
+#upper {height: 173px;}
+#lower {height: 590px;}
+.cleaner {clear: both;height: 0;line-height: 0;}
+.cleaner100 {clear: both; height: 100px;line-height: 0;}
+.float-right {float:right; margin-right: 20px !important;}
+.height75 {height:120px;}
+.height32 {height:45px;}
+.narrow-text {width: 222px !important;}
+.narrow-button {width: 250px !important;}
+.toclear {}
+
+
+.styleid{
+	color:#999;
+	font-size:18px;
+	-moz-border-radius: 8px; -webkit-border-radius: 8px;
+	margin:5px 0px 10px 0px;
+	padding:10px;
+	width:420px;
+	border:#999 3px solid;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+	box-shadow: 0 0 5px rgba(81, 203, 238, 0);
+	-webkit-box-shadow: 0 0 5px rgba(81, 203, 238, 0);
+	-moz-box-shadow: 0 0 5px rgba(81, 203, 238, 0);
+}
+
+
+.styleid:focus{
+	color:#000;
+	outline:none;
+	border:#35a5e5 3px solid;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	-webkit-box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+	-moz-box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+
+
+.greenButton {
+	-moz-box-shadow:inset 0px 1px 0px 0px #a4e271;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #a4e271;
+	box-shadow:inset 0px 1px 0px 0px #a4e271;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #89c403), color-stop(1, #77a809) );
+	background:-moz-linear-gradient( center top, #89c403 5%, #77a809 100% );
+	background-color:#89c403;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #74b807;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	text-align:center;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528009;
+}
+.greenButton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #77a809), color-stop(1, #89c403) );
+	background:-moz-linear-gradient( center top, #77a809 5%, #89c403 100% );
+	background-color:#77a809;
+}
+.greenButton:active {
+	position:relative;
+	top:1px;
+}
