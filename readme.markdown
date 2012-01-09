@@ -1,14 +1,19 @@
-=== Facebook Landing Page ===
 
-Live: http://www.facebook.com/EkoUKLtd?sk=app_327709943912138
-Blog: http://www.ekouk.com/blog/facebook-landing-page/
+Facebook Landing Page 
+===
 
-Main motivations:
-- let's do something to stand out the crowd
+[Live site](http://www.facebook.com/EkoUKLtd?sk=app_327709943912138)
+
+[Blog post on company website](http://www.ekouk.com/blog/facebook-landing-page/)
+
+#### Main motivations:
+
+- let's do something to stand out of the crowd
 - ulitilize FB potential
 
 
-What I've learnt:
+#### What I've learnt:
+
 - Facebook SDK
 - jQuery Ajax calls debugging
 - console.log breaking IE
@@ -17,6 +22,7 @@ What I've learnt:
 - CSS3 scaling
 - much much about browser compatibility
 
-Still to do:
+#### Still to do:
+
 - code is somehow messy, this time I would make it better
 - no https (need to find affordable hosting with SSL)
