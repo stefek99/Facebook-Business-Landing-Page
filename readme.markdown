@@ -1,5 +1,5 @@
 
-Facebook Landing Page v0.1
+Facebook Landing Page v0.2
 ===
 
 [Live site](http://www.facebook.com/EkoUKLtd?sk=app_327709943912138)
